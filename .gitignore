@@ -1,0 +1,23 @@
+# Build output
+/build/
+
+# Gradle (not used; kept for safety)
+.gradle/
+run/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+bin/
+
+# OS / logs
+Thumbs.db
+Desktop.ini
+*.log
+hs_err_pid*
